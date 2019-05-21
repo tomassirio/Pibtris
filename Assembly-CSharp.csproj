@@ -61,6 +61,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\SpawnTetromino.cs" />
     <Compile Include="Assets\TetrisBlock.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/Workspace/Pibtris/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
